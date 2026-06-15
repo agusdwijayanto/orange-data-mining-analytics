@@ -25,5 +25,14 @@ Proyek ini mengimplementasikan alur pemrosesan data visual (*visual programming 
 
 ---
 
+
+
+---
+
+## 👥 Kontributor Proyek
+Proyek ini dikembangkan dalam kerja sama tim (Kelompok 9) untuk pemenuhan tugas akademik, yang beranggotakan:
+* **Agus Dwijayanto** - *Data Workflow Designer & Reporting*
+* **Siti Bastiani** - *Data Exploration & Analysis*
+* **Rizal Suryawan** - *Data Gathering*
 ## 🧠 Kesimpulan Eksekutif
 Melalui proyek ini, dibuktikan bahwa analisis data dan penarikan kesimpulan bisnis (*Business Insights*) dapat dilakukan secara cepat dan akurat menggunakan pendekatan *Visual Programming*. Penggunaan Orange Data Mining mempermudah tim analis dalam memetakan performa penjualan produk tanpa harus terkendala penulisan sintaks kode yang rumit.
